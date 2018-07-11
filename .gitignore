@@ -3,7 +3,7 @@
 *.pyc
 # add matlabs stuff later
 # and latex stuff
-
+*.TMP
 
 # always iclude
 !*.py
