@@ -1,0 +1,10 @@
+# files to ignore
+# python cach
+*.pyc
+# add matlabs stuff later
+# and latex stuff
+
+
+# always iclude
+!*.py
+!*.m
